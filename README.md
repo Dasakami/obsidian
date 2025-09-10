@@ -1,1 +1,5 @@
-Hi
+
+```python
+print(hi)
+```
+
