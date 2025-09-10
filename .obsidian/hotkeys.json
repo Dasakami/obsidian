@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:_resources/templates/Книги.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}

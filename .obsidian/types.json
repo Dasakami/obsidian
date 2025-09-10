@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "text",
+    "done": "checkbox",
+    "state": "multitext",
+    "Дата чтения": "date",
+    "Дата_чтения": "date",
+    "категория": "text",
+    "id": "number",
+    "genre": "multitext"
+  }
+}

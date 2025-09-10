@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "8ec8d1c7b61d9585",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ca8f7ec1cac369f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f676d4cacd4f290d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проекты/Боты/Бот продажник в Тг.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Бот продажник в Тг"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abc2ff05e9b3f50d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b288a625c11c1d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dd6eb80fa8717f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "bd587fdf74332f8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d0578fed416cb601",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b795b3e4cdc17dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a983cca96a4b780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63242bf0401dbdf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "b41f9a117607a7a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Добро пожаловать"
+            }
+          },
+          {
+            "id": "49c84d167d233280",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "32dd726ed88df5c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Проекты/Боты/Бот продажник в Тг.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Бот продажник в Тг"
+            }
+          },
+          {
+            "id": "d21a1e6b5f39c5b3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "279a3977e5ba1e87",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "a2deee1ffdebae24",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "25a5b5f58d63dc3a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "32dd726ed88df5c6",
+  "lastOpenFiles": [
+    "Тест для бота.md",
+    "Сведения - Главная.md",
+    "Хобби/Аниме/Семь смертных грехов.md",
+    "Хобби/Аниме/Наруто.md",
+    "Хобби/Сведения.md",
+    "Хобби/Аниме.md",
+    "Хобби/Аниме",
+    "Хобби",
+    "Финансы/Бюджет/Бюджет — 08-2025.md",
+    "Финансы/Расходы",
+    "Финансы/Отчёты",
+    "Финансы/Накопления",
+    "Финансы/Инвестиции",
+    "Финансы/Доходы",
+    "Финансы/Возможности",
+    "Финансы/Бюджет",
+    "Финансы",
+    "Тренировки/Замеры/2025-08-31.md",
+    "Тренировки/Сведения.md",
+    "Саморазвитие/Годовые планы/Метод Memento-Mori/Полугодовая цель.md",
+    "Саморазвитие/Годовые планы/Метод Memento-Mori/Метод Memento mori.md",
+    "Саморазвитие/Сведения.md",
+    "Разум/Мысли/тестик.md",
+    "Разум/Сведения.md",
+    "Проекты/Учебные/Курсовая работа.md",
+    "Проекты/Приложения/Spiritual Diary.md",
+    "Проекты/Приложения/Daskoro App.md",
+    "Проекты/Приложения/Dasakami Календарь.md",
+    "Проекты/Сайты/Shakhada.md",
+    "Проекты/Сайты/Destourant.md",
+    "Проекты/Сайты/Daskoro.md",
+    "Проекты/Сайты/Dasakami Education.md",
+    "Проекты/Сайты/Dan Dasakami.md",
+    "Проекты/Сайты/Avtoestet.md",
+    "Проекты/Сайты/505team.md",
+    "Проекты/Боты/Бот продажник в Тг.md",
+    "_resources/toji_fushiguro___wallpaper_by_zasinlow_dfpwxfs-pre.jpg",
+    "холст.canvas",
+    "Без названия 2.canvas",
+    "Без названия.canvas",
+    "Без названия 1.canvas"
+  ]
+}
