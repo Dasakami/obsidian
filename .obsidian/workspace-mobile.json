@@ -53,14 +53,14 @@
             "id": "b7aa8f6bc5bd245a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Саморазвитие/ежедневные заметки/16.09.2025.md",
-                "mode": "source",
-                "source": false
+                "aFile": "База/Подтверждение навыков.md",
+                "bFile": "База/Подтверждение навыков.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "16.09.2025"
+              "icon": "git-pull-request",
+              "title": "Diff: Подтверждение навыков"
             }
           }
         ],
@@ -224,8 +224,8 @@
   },
   "active": "b7aa8f6bc5bd245a",
   "lastOpenFiles": [
-    "База/Задачи.md",
     "Саморазвитие/ежедневные заметки/16.09.2025.md",
+    "База/Задачи.md",
     "База/Подтверждение навыков.md",
     "_resources/templates/Ежедневные заметки.md",
     "Саморазвитие/ежедневные заметки/15.09.2025.md",
