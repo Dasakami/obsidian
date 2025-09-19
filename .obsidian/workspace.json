@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "База/Gone gone gone - philips.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -216,8 +216,9 @@
   },
   "active": "738a8e32632ed9d3",
   "lastOpenFiles": [
-    "База/Свод правил.md",
     "База/Переводы непонятных слов.md",
+    "База/Gone gone gone - philips.md",
+    "База/Свод правил.md",
     "База/Идея.md",
     "_resources/templates/Новый отчет.md",
     "_resources/templates/Книги.md",
@@ -241,7 +242,6 @@
     "Люди/Кумиры/Джеки Чан.md",
     "Люди/Кумиры/Давид Лейд.md",
     "Люди/Кумиры/Александр Македонский.md",
-    "Колледж/Расписание.md",
     "Саморазвитие/Задачи",
     "_fit/База",
     "_fit",
