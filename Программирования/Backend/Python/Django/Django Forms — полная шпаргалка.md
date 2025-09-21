@@ -27,23 +27,23 @@ class ContactForm(forms.Form):
 
 ## 2️⃣ Поля форм (Field types)
 
-|Поле|Описание|
-|---|---|
-|`CharField`|Текстовое поле|
-|`EmailField`|Email с проверкой|
-|`IntegerField`|Целое число|
-|`FloatField`|Дробное число|
-|`DecimalField(max_digits, decimal_places)`|Десятичное число|
-|`BooleanField`|True/False|
-|`NullBooleanField`|True/False/None|
-|`DateField`|Дата|
-|`DateTimeField`|Дата и время|
-|`TimeField`|Время|
-|`ChoiceField(choices=…)`|Выбор из списка|
-|`MultipleChoiceField`|Множественный выбор|
-|`FileField`|Загрузка файлов|
-|`ImageField`|Загрузка изображений|
-|`SlugField`|SEO-friendly текст|
+| Поле                                       | Описание             |
+| ------------------------------------------ | -------------------- |
+| `CharField`                                | Текстовое поле       |
+| `EmailField`                               | Email с проверкой    |
+| `IntegerField`                             | Целое число          |
+| `FloatField`                               | Дробное число        |
+| `DecimalField(max_digits, decimal_places)` | Десятичное число     |
+| `BooleanField`                             | True/False           |
+| `NullBooleanField`                         | True/False/None      |
+| `DateField`                                | Дата                 |
+| `DateTimeField`                            | Дата и время         |
+| `TimeField`                                | Время                |
+| `ChoiceField(choices=…)`                   | Выбор из списка      |
+| `MultipleChoiceField`                      | Множественный выбор  |
+| `FileField`                                | Загрузка файлов      |
+| `ImageField`                               | Загрузка изображений |
+| `SlugField`                                | SEO-friendly текст   |
 
 ---
 

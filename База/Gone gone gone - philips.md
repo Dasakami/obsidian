@@ -10,3 +10,7 @@ When [[Переводы непонятных слов#enimes - враги|enimes
 I'll carry you way from war - я унесу тебя от войны ( дословно - я позабочусь в пути от войны)
 if you need help, if you need help - если тебе будет нужна помощь
 You hope [[Переводы непонятных слов#dangling - болтающийся|dangling]] by a string  -  ты 
+I'll share in your [[Переводы непонятных слов#suffering - страдания , страдающий|suffering]] to make you well, to make you well -  я разделю твои страдния чтобы тебе стало лучше
+Give me reason to the believe  that you would do the   same for me - дай мне причину верить что делаешь то же самое для меня
+And I would do it for you, for you - И я сделаю это для тебя , для тебя
+Babe, I'm no moving  on - 
