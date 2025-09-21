@@ -1,1 +1,0 @@
-https://t-j.ru/short/more-obsidian-plugins/?utm_referrer=https%3A%2F%2Fyandex.com%2F
