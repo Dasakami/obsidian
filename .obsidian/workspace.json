@@ -11,14 +11,10 @@
             "id": "738a8e32632ed9d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Саморазвитие/ежедневные заметки/22.09.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "22.09.2025"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -217,10 +213,14 @@
   },
   "active": "738a8e32632ed9d3",
   "lastOpenFiles": [
+    "Колледж/Кроссворд  терминами и жаргонами профессии It..md",
+    "Колледж/Общее сведения о том, что на каких парах быть..md",
+    "Колледж/ОС конспекты.md",
+    "Саморазвитие/ежедневные заметки/22.09.2025.md",
     "Саморазвитие/ежедневные заметки/23.09.2025.md",
+    "Колледж/Пары/Основы алгоритмизации и программирования && Лекция.md",
     "Колледж/Расписание.md",
     "Колледж/Пары.md",
-    "Саморазвитие/ежедневные заметки/22.09.2025.md",
     "Саморазвитие/Месячные планы/Сентябрь.md",
     "_resources/templates/Ежедневные заметки.md",
     "_resources/templates/Книги.md",
@@ -240,10 +240,6 @@
     "Программирования/Backend/Python/Django/Django Forms — полная шпаргалка.md",
     "Программирования/Backend/Python/Django/Django Function-Based Views (FBV) — полная шпаргалка.md",
     "Программирования/Backend/Python/Django/Django Class-Based Views (CBV) — полная шпаргалка.md",
-    "Программирования/Backend/Python/Django/Django Authentication & Authorization — полная шпаргалка.md",
-    "Программирования/Backend/Python/Django/Django Admin — полная шпаргалка.md",
-    "Программирования/Backend/Python/Django/Django - для чего нужен.md",
-    "Программирования/Backend/Python/Django/Архитектура и базовые команды.md",
     "Саморазвитие/Задачи",
     "_fit/База",
     "_fit",
