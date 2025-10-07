@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{
+			"id":"ac14e8c0dd4df2ff",
+			"type":"text",
+			"text":"СТРУКТУРА ",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-120,
+			"y":-20,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2e9bc633c56a1601",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-120,
+			"y":60,
+			"width":260,
+			"height":320
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"bc3cf288834f748e"
+	}
+}
