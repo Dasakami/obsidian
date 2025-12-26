@@ -136,18 +136,35 @@
             "id": "118c253fed1d9a12",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "English/MAIN.canvas",
+                "viewState": {
+                  "x": 660,
+                  "y": 394,
+                  "zoom": -1.0831971041920183
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "MAIN"
+            }
+          },
+          {
+            "id": "0d0146692f9bd0df",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "06_PREFER.md",
+                "file": "English/02_Prepositions/09_Preposition_Comparison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_PREFER"
+              "title": "09_Preposition_Comparison"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -341,10 +358,27 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "118c253fed1d9a12",
+  "active": "0d0146692f9bd0df",
   "lastOpenFiles": [
-    "English/05_Constructions/07_WOULD_RATHER.md",
+    "English/02_Prepositions/07_WITH_WITHOUT.md",
+    "English/01_Sentence_Core/04_Word_Order.md",
+    "English/01_Sentence_Core/05_Sentence_Types.md",
+    "English/01_Sentence_Core/03_Subject_Object_Predicate.md",
+    "English/01_Sentence_Core/02_Parts_of_Speech.md",
+    "English/01_Sentence_Core/01_Sentence_Structure.md",
+    "English/MAIN.canvas",
+    "English/06_Modifiers & Limits/00_Modifiers_Overview.md",
+    "English/06_Modifiers_Limits/00_Modifiers_Overview.md",
+    "English/06_Modifiers_Limits",
+    "English/06_Modifiers & Limits/12_CAN , COULD, BE ABLE TO.md",
+    "English/06_Modifiers & Limits/05_NO_LONGER_NOT_ANYMORE.md",
+    "English/06_Modifiers & Limits/04_SO_vs_SUCH.md",
+    "English/06_Modifiers & Limits/02_TOO_MUCH_MANY.md",
+    "English/06_Modifiers & Limits/01_Much_Many_Little_Few.md",
+    "English/04_Tenses/10_Past_Perfect_Continuous.md",
+    "Саморазвитие/ежедневные заметки/Октябрь/29.10.2025.md",
     "06_PREFER.md",
+    "English/05_Constructions/07_WOULD_RATHER.md",
     "English/05_Constructions/08_Modal_Verbs.md",
     "08_WOULD_LIKE.md",
     "English/05_Constructions/03_WOULD_habits.md",
@@ -354,23 +388,7 @@
     "English/03_Questions/00_Question_Structure.md",
     "English/03_Questions/09_Question_Words_Comparison.md",
     "English/04_Tenses/12_Future_Perfect_Continuous.md",
-    "English/06_Modifiers & Limits/01_Much_Many_Little_Few.md",
-    "English/06_Modifiers & Limits/07_Comparatives_Superlatives.md",
-    "English/06_Modifiers & Limits/08_SOME_ANY_NO.md",
-    "English/06_Modifiers & Limits/09_DO_vs_MAKE.md",
-    "English/06_Modifiers & Limits/10_MAY_vs_MIGHT.md",
-    "English/06_Modifiers & Limits/11_MOST_MOST_OF_THE_MOST.md",
-    "English/06_Modifiers & Limits/06_STILL_YET_ALREADY.md",
-    "English/06_Modifiers & Limits/04_SO_vs_SUCH.md",
-    "English/05_Constructions/12_Wish_If_only.md",
-    "English/05_Constructions/11_Conditionals_2_3.md",
-    "English/05_Constructions/10_Conditionals_0_1.md",
-    "English/05_Constructions/09_Passive_Voice.md",
-    "English/05_Constructions/06_HAD_BETTER.md",
-    "English/05_Constructions/05_BE_USED_TO.md",
-    "English/05_Constructions/04_GET_USED_TO.md",
     "English/06_Modifiers & Limits/00_Overview",
-    "English/MAIN.canvas",
     "English.canvas",
     "English/06_Modifiers & Limits",
     "МОЙ ПЛАН.canvas",
@@ -385,7 +403,6 @@
     "Программирования/Backend/Микросервисы/МИКРОСЕРВИСНАЯ АРХИТЕКТУРА.canvas",
     "Программирования/Backend/Микросервисы/Wikipedia микросервис.canvas",
     "Программирования/Backend/Микросервисы/RabbitMQ",
-    "Программирования/Backend/Микросервисы",
     "Без названия 1.canvas",
     "Screenshot 2025-10-03 165705.png",
     "Test.canvas",
