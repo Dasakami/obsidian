@@ -138,12 +138,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/MOC.md",
+                "file": "те кто купили курсовую.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "те кто купили курсовую"
             }
           }
         ],
@@ -341,8 +341,13 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "6dd6eb80fa8717f1",
+  "active": "118c253fed1d9a12",
   "lastOpenFiles": [
+    "МОЙ ПЛАН.canvas",
+    "Без названия 1.canvas",
+    "Модель проекта.md",
+    "Материалы/Английские слова, которых я знаю.md",
+    "English/MOC.md",
     "English/Словарь и прогресс.md",
     "Хобби/Аниме/Любимые/Чёрный клевер.md",
     "Хобби/Аниме/Сведения.md",
@@ -350,7 +355,6 @@
     "Люди/Друзья/Шабу брат.md",
     "_resources/Система тегов.md",
     "Программирования/Telegram интеграция.md",
-    "English/MOC.md",
     "English/Работа с ноутбуком.md",
     "Материалы/MOC.md",
     "Люди/Кумиры/Дональд Трамп.md",
@@ -363,13 +367,9 @@
     "Хобби/Аниме/Любимые/Атака Титанов.md",
     "GUIDE.md",
     "Хобби/Аниме/Топ/My Hero Academia.md",
-    "Модель проекта.md",
-    "МОЙ ПЛАН.canvas",
     "HOME.md",
     "Проекты/Сведения.md",
     "Материалы/Книги/Нет оправданий! Сила самодисциплины.md",
-    "_resources/templates/Финансы/Инвестиции.md",
-    "_resources/templates/Финансы/Доходы.md",
     "English/MAIN.canvas",
     "Хобби/Аниме/Топ",
     "Хобби/Аниме/Любимые",
@@ -377,7 +377,6 @@
     "Саморазвитие/Квартальные_обзоры",
     "_resources/templates/People",
     "С НУЛЯ ДО МИЛЛИОНЕРА.canvas",
-    "Без названия 1.canvas",
     "English.canvas",
     "Хобби/Monopoly one",
     "English/10_Common_Expressions",
