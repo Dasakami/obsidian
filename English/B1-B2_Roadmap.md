@@ -17,18 +17,18 @@
 
 ### ✅ ОБЯЗАТЕЛЬНЫЕ ТЕМЫ (в этом курсе):
 
-| Номер | Тема | Важность | Статус |
-|-------|------|----------|--------|
-| 1 | [[01_Sentence_Core/00_Overview]] | 🔥🔥🔥 | ✅ Есть |
-| 2 | [[02_Prepositions/00_Prepositions_Overview]] | 🔥🔥🔥 | ✅ Есть |
-| 3 | [[03_Questions/00_Question_Structure]] | 🔥🔥🔥 | ✅ Есть |
-| 4 | [[04_Tenses/00_How_Tenses_Work]] | 🔥🔥🔥 | ✅ Есть |
-| 5 | [[05_Constructions/00_Constructions_Overview]] | 🔥🔥🔥 | ✅ Есть |
-| 6 | [[06_Modifiers & Limits/00_Modifiers_Overview]] | 🔥🔥 | ✅ Есть |
-| 7 | [[07_Irregular_Verbs/00_Learning_Strategy]] | 🔥🔥🔥 | ✅ **НОВОЕ!** |
-| 8 | [[08_Linking_Words/00_Overview]] | 🔥🔥 | ✅ **НОВОЕ!** |
-| 9 | [[09_Phrasal_Verbs/00_Overview]] | 🔥🔥🔥 | ✅ **НОВОЕ!** |
-| 10 | [[10_Common_Expressions/00_Overview]] | 🔥🔥🔥 | ✅ **НОВОЕ!** |
+| Номер | Тема                                            | Важность | Статус       |
+| ----- | ----------------------------------------------- | -------- | ------------ |
+| 1     | [[01_Sentence_Structure]]                       | 🔥🔥🔥   | ✅ Есть       |
+| 2     | [[02_Prepositions/00_Prepositions_Overview]]    | 🔥🔥🔥   | ✅ Есть       |
+| 3     | [[03_Questions/00_Question_Structure]]          | 🔥🔥🔥   | ✅ Есть       |
+| 4     | [[04_Tenses/00_How_Tenses_Work]]                | 🔥🔥🔥   | ✅ Есть       |
+| 5     | [[05_Constructions/00_Constructions_Overview]]  | 🔥🔥🔥   | ✅ Есть       |
+| 6     | [[06_Modifiers & Limits/00_Modifiers_Overview]] | 🔥🔥     | ✅ Есть       |
+| 7     | [[07_Irregular_Verbs/00_Learning_Strategy]]     | 🔥🔥🔥   | ✅ **НОВОЕ!** |
+| 8     | [[08_Linking_Words/00_Overview]]                | 🔥🔥     | ✅ **НОВОЕ!** |
+| 9     | [[09_Phrasal_Verbs/00_Overview]]                | 🔥🔥🔥   | ✅ **НОВОЕ!** |
+| 10    | [[10_Common_Expressions/00_Overview]]           | 🔥🔥🔥   | ✅ **НОВОЕ!** |
 
 ---
 

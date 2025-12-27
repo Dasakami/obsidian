@@ -153,17 +153,14 @@
             "id": "0d0146692f9bd0df",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "English/MAIN.canvas",
-                "viewState": {
-                  "x": 543.0020476086816,
-                  "y": 631.1643639773945,
-                  "zoom": -1.0989438973351897
-                }
+                "file": "English/08_Linking_Words/00_Overview.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "MAIN"
+              "icon": "lucide-file",
+              "title": "00_Overview"
             }
           }
         ],
@@ -363,13 +360,14 @@
   },
   "active": "0d0146692f9bd0df",
   "lastOpenFiles": [
+    "English/09_Phrasal_Verbs/00_Overview.md",
+    "English/10_Common_Expressions/00_Overview.md",
     "English/B1-B2_Roadmap.md",
-    "English/HOW_EVERYTHING_CONNECTS.md",
+    "English/01_Sentence_Core/01_Sentence_Structure.md",
     "English/MAIN.canvas",
+    "English/HOW_EVERYTHING_CONNECTS.md",
     "English/QUICK_INDEX.md",
     "English/README_UPDATES.md",
-    "English/10_Common_Expressions/00_Overview.md",
-    "English/09_Phrasal_Verbs/00_Overview.md",
     "English/08_Linking_Words/00_Overview.md",
     "English/07_Irregular_Verbs/04_GROUP_4_Full_Change.md",
     "English/07_Irregular_Verbs/03_GROUP_3_Same_Past_Participle.md",
