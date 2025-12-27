@@ -136,14 +136,14 @@
             "id": "118c253fed1d9a12",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "copilot-custom-prompts/Make shorter.md",
-                "bFile": "copilot-custom-prompts/Make shorter.md",
-                "aRef": ""
+                "file": "Хобби/Аниме/Любимые/Чёрный клевер.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Make shorter"
+              "icon": "lucide-file",
+              "title": "Чёрный клевер"
             }
           }
         ],
@@ -343,6 +343,18 @@
   },
   "active": "118c253fed1d9a12",
   "lastOpenFiles": [
+    "Хобби/Аниме/Топ/Jujutsu Kaisen.md",
+    "Хобби/Аниме.md",
+    "Хобби/Аниме/Топ/Death Note.md",
+    "Хобби/Аниме/Сведения.md",
+    "Хобби/Аниме/Любимые/Атака Титанов.md",
+    "GUIDE.md",
+    "Хобби/Аниме/Топ/My Hero Academia.md",
+    "Модель проекта.md",
+    "МОЙ ПЛАН.canvas",
+    "README.md",
+    "HOME.md",
+    "Проекты/Сведения.md",
     "Материалы/Книги/Нет оправданий! Сила самодисциплины.md",
     "_resources/templates/Финансы/Инвестиции.md",
     "_resources/templates/Финансы/Доходы.md",
@@ -358,17 +370,6 @@
     "Материалы/Книги/Школа Бизнеса.md",
     "Люди/Кумиры/Джеки Чан.md",
     "Материалы/Книги/Атомные привычки.md",
-    "_resources/templates/Аниме.md",
-    "Люди/Кумиры/Александр Карелин.md",
-    "Люди/Наставники/YouTube.md",
-    "_resources/templates/Memento Mori.md",
-    "Хобби/Аниме/Топ/Death Note.md",
-    "Люди/Наставники/Habr.md",
-    "Люди/Наставники/ChatGPT.md",
-    "Материалы/Книги/75 Вопросов об Аде.md",
-    "Хобби/Аниме/Топ/My Hero Academia.md",
-    "Материалы/Книги/99 Вопросов об Рае.md",
-    "Хобби/Аниме/Топ/Jujutsu Kaisen.md",
     "English/MAIN.canvas",
     "Хобби/Аниме/Топ",
     "Хобби/Аниме/Любимые",
@@ -376,7 +377,6 @@
     "Саморазвитие/Квартальные_обзоры",
     "_resources/templates/People",
     "С НУЛЯ ДО МИЛЛИОНЕРА.canvas",
-    "МОЙ ПЛАН.canvas",
     "Без названия 1.canvas",
     "English.canvas",
     "Хобби/Monopoly one",
