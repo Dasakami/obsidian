@@ -13,16 +13,16 @@
 ### 1️⃣ ADDITION (добавление) - "И ещё"
 Используются, когда добавляешь **новую идею**
 
-| Слово | Пример | Перевод |
-|--------|--------|---------|
-| **and** | I like coffee **and** tea. | и |
-| **also** | She is smart, **also** kind. | также |
-| **as well as** | English **as well as** French | в дополнение к |
-| **in addition** | **In addition**, we need money. | кроме того |
-| **furthermore** | **Furthermore**, it's cheaper. | более того |
-| **moreover** | **Moreover**, it works better. | к тому же |
-| **too** | I like it **too**. | тоже |
-| **besides** | **Besides**, it's fun. | к тому же |
+| Слово           | Пример                          | Перевод        |
+| --------------- | ------------------------------- | -------------- |
+| **and**         | I like coffee **and** tea.      | и              |
+| **also**        | She is smart, **also** kind.    | также          |
+| **as well as**  | English **as well as** French   | в дополнение к |
+| **in addition** | **In addition**, we need money. | кроме того     |
+| **furthermore** | **Furthermore**, it's cheaper.  | более того     |
+| **moreover**    | **Moreover**, it works better.  | к тому же      |
+| **too**         | I like it **too**.              | тоже           |
+| **besides**     | **Besides**, it's fun.          | к тому же      |
 
 **Примеры:**
 - I love music. **Also**, I play guitar.
@@ -34,18 +34,18 @@
 ### 2️⃣ CONTRAST (противопоставление) - "Но"
 Используются для выражения **противоположных идей**
 
-| Слово | Пример | Перевод |
-|--------|--------|---------|
-| **but** | I like it **but** it's expensive. | но |
-| **however** | It's nice. **However**, it's small. | однако |
-| **yet** | It's old **yet** useful. | всё же |
-| **although** | **Although** it's cold, I go out. | хотя |
-| **though** | **Though** it's hard, I try. | хотя |
-| **while** | **While** one is tall, the other is short. | в то время как |
-| **in contrast** | He is kind. **In contrast**, his brother is rude. | в то время как |
-| **despite** | **Despite** the rain, we went. | несмотря на |
-| **on the other hand** | A is good. **On the other hand**, B is better. | с другой стороны |
-| **whereas** | Some agree, **whereas** others disagree. | тогда как |
+| Слово                 | Пример                                            | Перевод          |
+| --------------------- | ------------------------------------------------- | ---------------- |
+| **but**               | I like it **but** it's expensive.                 | но               |
+| **however**           | It's nice. **However**, it's small.               | однако           |
+| **yet**               | It's old **yet** useful.                          | всё же           |
+| **although**          | **Although** it's cold, I go out.                 | хотя             |
+| **though**            | **Though** it's hard, I try.                      | хотя             |
+| **while**             | **While** one is tall, the other is short.        | в то время как   |
+| **in contrast**       | He is kind. **In contrast**, his brother is rude. | в то время как   |
+| **despite**           | **Despite** the rain, we went.                    | несмотря на      |
+| **on the other hand** | A is good. **On the other hand**, B is better.    | с другой стороны |
+| **whereas**           | Some agree, **whereas** others disagree.          | тогда как        |
 
 **Примеры:**
 - It looks good. **However**, it doesn't work.
