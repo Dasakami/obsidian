@@ -138,12 +138,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Exceptions.md",
+                "file": "English/Comparatives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exceptions"
+              "title": "Comparatives"
             }
           }
         ],
@@ -343,14 +343,16 @@
   },
   "active": "118c253fed1d9a12",
   "lastOpenFiles": [
+    "English/05_Constructions/09_Passive_Voice.md",
+    "English/Constructions.md",
+    "English/Gerund_Infinitive.md",
+    "English/Exceptions.md",
     "English/Clauses.md",
     "English/Questions.md",
     "English/Collocations.md",
     "English/Comparatives.md",
     "English/Phrasal_Verbs.md",
-    "English/Gerund_Infinitive.md",
     "English/Negation.md",
-    "English/Constructions.md",
     "English/Irregular_Verbs.md",
     "English/Reported_Speech.md",
     "English/Conditionals.md",
@@ -365,10 +367,8 @@
     "English/Tenses_Overview.md",
     "English/Nouns.md",
     "English/ENGLISH_SYSTEM_COMPLETE.md",
-    "English/Exceptions.md",
     "English/Auxiliaries.md",
     "English/Verb_Types.md",
-    "English/CANVAS_CONNECTIONS_EXPLAINED.md",
     "English/English Tenses and Exceptions.canvas",
     "English/00_FOUNDATION",
     "English/English Tenses and Exceptions_NEW.canvas",
